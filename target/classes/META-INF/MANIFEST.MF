@@ -4,7 +4,7 @@ Build-Jdk: 1.6.0_51
 Bundle-Version: 0.1
 Tool: Bnd-0.0.255
 Bundle-Name: demo.camel-bundle [demo.camel]
-Bnd-LastModified: 1375352210500
+Bnd-LastModified: 1375435041942
 Created-By: Apache Maven Bundle Plugin
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: demo.camel-bundle
